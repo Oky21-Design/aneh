@@ -1,2 +1,1 @@
-# aneh
-web
+# kimia2
